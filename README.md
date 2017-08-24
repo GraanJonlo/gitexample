@@ -1,1 +1,4 @@
 # gitexample
+foo
+foo
+foo
